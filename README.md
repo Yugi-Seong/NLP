@@ -1,9 +1,10 @@
 # NLP
 
+[1] 아나콘다 가상환경 생성 및 활성화 / 비활성화 
 #### 1. 가상환경 추가
 
 ```CMD
-> conda create -n test_envs python=3.6
+> conda create -n test_envs python=3.6 anaconda 
 ```
 
 ‘conda create -n’ 이라는 명령어를 통해 가상환경을 추가할 수 있으며 바로 뒤에 원하는 가상환경 이름을 적는다.
